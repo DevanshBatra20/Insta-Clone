@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Insta_Clone</string>
+    <string name="title_activity_insta_u_i">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_search">Search</string>
+    <string name="title_plus">Plus</string>
+    <string name="title_like">Like</string>
+    <string name="title_user">User</string>
+</resources>
