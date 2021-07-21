@@ -1,13 +1,14 @@
 {
   "project_info": {
     "project_number": "352732985122",
+    "firebase_url": "https://insta-clone-1ca2b-default-rtdb.firebaseio.com",
     "project_id": "insta-clone-1ca2b",
     "storage_bucket": "insta-clone-1ca2b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:352732985122:android:52b8706d1f9def5e7a577b",
+        "mobilesdk_app_id": "1:352732985122:android:b92dd5abac0b5a127a577b",
         "android_client_info": {
           "package_name": "com.example.insta_clone"
         }
